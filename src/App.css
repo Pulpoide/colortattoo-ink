@@ -1,0 +1,54 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.carousel-inner{
+  width: 100%;
+  max-height: 1111px !important;
+}
+
+.icon-box{
+  width: 50px;
+  height: 50px;
+  line-height: 45px;
+  text-align:'center';
+  animation-delay:'200ms'
+}
+
+.contacts {
+  display: flex;
+  align-items: center;
+}
+
+.nombre {
+  color: white;
+  margin-left:auto;
+  font-family: 'Lora', serif;
+}
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+}
+/* EMPIEZO A TOQUETEAR CSS PARA EL RESPONSIVE*/
+
+.img-fluid {
+  padding-top: 55px;
+}
+
+.container-down {
+  height: 25vh;
+  min-height: 80px;
+}
+
+.botoncito{
+  margin-left: 50px;
+  
+}
+
+.nombre {
+  font-family: 'Lora', serif;
+}
