@@ -1,3 +1,3 @@
 # colortattoo-ink
-It's a simple view of the tattoos
+It's a simple view of tattoos
 -> https://colortattoo-ink.web.app/
