@@ -19,8 +19,8 @@ function App() {
           <Bar/>
           {<img src={logo_principal} className='img-fluid'></img>}
           <ImgGalery/>
-          <div className='container-down container.fluid'>
-            <button type='button' className='botoncito btn btn-light'>¡Quiero mi tatuaje!</button>
+          <div className='container-fluid'>
+            <button type='button' className='btn btn-light btn-lg w-50'>Formulario</button>
           </div>
       
 
